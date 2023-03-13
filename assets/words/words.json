@@ -1,0 +1,1440 @@
+{
+  "words": [
+    {
+      "id": 0,
+      "level": 1,
+      "word": "ара",
+      "syllables": [
+        "а",
+        "ра"
+      ],
+      "name": "ara",
+      "copyright": "https://www.pexels.com/ru-ru/photo/8887742/"
+    },
+    {
+      "id": 1,
+      "level": 1,
+      "word": "эму",
+      "syllables": [
+        "э",
+        "му"
+      ],
+      "name": "emu",
+      "copyright": "https://unsplash.com/photos/wEdQ9qMHLPM"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "word": "муха",
+      "syllables": [
+        "му",
+        "ха"
+      ],
+      "name": "fly",
+      "copyright": "https://unsplash.com/photos/kkpQ_3z1it0"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "word": "лиса",
+      "syllables": [
+        "ли",
+        "са"
+      ],
+      "name": "fox",
+      "copyright": "https://unsplash.com/photos/xUUZcpQlqpM"
+    },
+    {
+      "id": 4,
+      "level": 1,
+      "word": "лама",
+      "syllables": [
+        "ла",
+        "ма"
+      ],
+      "name": "llama",
+      "copyright": "https://unsplash.com/photos/0EHJJYcMuXQ"
+    },
+    {
+      "id": 5,
+      "level": 1,
+      "word": "лори",
+      "syllables": [
+        "ло",
+        "ри"
+      ],
+      "name": "loris",
+      "copyright": "https://unsplash.com/photos/2UWPLT1-t1s"
+    },
+    {
+      "id": 6,
+      "level": 1,
+      "word": "жаба",
+      "syllables": [
+        "жа",
+        "ба"
+      ],
+      "name": "toad",
+      "copyright": "https://unsplash.com/photos/wbhxW5JJq7I"
+    },
+    {
+      "id": 7,
+      "level": 1,
+      "word": "пума",
+      "syllables": [
+        "пу",
+        "ма"
+      ],
+      "name": "mountain_lion",
+      "copyright": "https://unsplash.com/photos/6bZQonml5do"
+    },
+    {
+      "id": 8,
+      "level": 2,
+      "word": "кот",
+      "syllables": [
+        "кот"
+      ],
+      "name": "cat",
+      "copyright": ""
+    },
+    {
+      "id": 9,
+      "level": 2,
+      "word": "кит",
+      "syllables": [
+        "кит"
+      ],
+      "name": "whale",
+      "copyright": "https://www.pexels.com/ru-ru/photo/302271/"
+    },
+    {
+      "id": 10,
+      "level": 2,
+      "word": "рак",
+      "syllables": [
+        "рак"
+      ],
+      "name": "crayfish",
+      "copyright": "https://commons.m.wikimedia.org/wiki/File:Astacus_astacus_01.jpg#mw-jump-to-license"
+    },
+    {
+      "id": 11,
+      "level": 2,
+      "word": "сом",
+      "syllables": [
+        "сом"
+      ],
+      "name": "catfish",
+      "copyright": "https://unsplash.com/photos/uWLvruHp8kY"
+    },
+    {
+      "id": 12,
+      "level": 2,
+      "word": "бык",
+      "syllables": [
+        "бык"
+      ],
+      "name": "bull",
+      "copyright": "https://www.pexels.com/ru-ru/photo/457447/"
+    },
+    {
+      "id": 13,
+      "level": 2,
+      "word": "уж",
+      "syllables": [
+        "уж"
+      ],
+      "name": "grass_snake",
+      "copyright": "https://commons.wikimedia.org/wiki/File:2017.07.17.-17-Tiefer_See_oder_Grubensee-Storkow_(Mark)--Ringelnatter.jpg"
+    },
+    {
+      "id": 14,
+      "level": 2,
+      "word": "сип",
+      "syllables": [
+        "сип"
+      ],
+      "name": "griffon",
+      "copyright": "https://unsplash.com/photos/8leADP9XdG8"
+    },
+    {
+      "id": 15,
+      "level": 2,
+      "word": "сыч",
+      "syllables": [
+        "сыч"
+      ],
+      "name": "burrowing_owl",
+      "copyright": "https://unsplash.com/photos/n6I2GT_Pij4"
+    },
+    {
+      "id": 16,
+      "level": 3,
+      "word": "жук",
+      "syllables": [
+        "жук"
+      ],
+      "name": "beetle",
+      "copyright": "https://www.pexels.com/ru-ru/photo/3049993/"
+    },
+    {
+      "id": 17,
+      "level": 3,
+      "word": "овца",
+      "syllables": [
+        "ов",
+        "ца"
+      ],
+      "name": "sheep",
+      "copyright": "https://unsplash.com/photos/GJclWjgcVPk"
+    },
+    {
+      "id": 18,
+      "level": 3,
+      "word": "щука",
+      "syllables": [
+        "щу",
+        "ка"
+      ],
+      "name": "pike",
+      "copyright": "https://commons.wikimedia.org/wiki/File:Esox_lucius1.jpg"
+    },
+    {
+      "id": 19,
+      "level": 3,
+      "word": "коза",
+      "syllables": [
+        "ко",
+        "за"
+      ],
+      "name": "goat",
+      "copyright": "https://unsplash.com/photos/xB0e8bDV4ww"
+    },
+    {
+      "id": 20,
+      "level": 3,
+      "word": "сова",
+      "syllables": [
+        "со",
+        "ва"
+      ],
+      "name": "owl",
+      "copyright": "https://unsplash.com/photos/m-AqW5QCxNQ"
+    },
+    {
+      "id": 21,
+      "level": 3,
+      "word": "киви",
+      "syllables": [
+        "ки",
+        "ви"
+      ],
+      "name": "kiwi",
+      "copyright": "https://commons.wikimedia.org/wiki/File:Am_media-v-602297.jpg"
+    },
+    {
+      "id": 22,
+      "level": 3,
+      "word": "паук",
+      "syllables": [
+        "па",
+        "ук"
+      ],
+      "name": "spider",
+      "copyright": "https://unsplash.com/photos/-RJQvBkNHD0"
+    },
+    {
+      "id": 23,
+      "level": 3,
+      "word": "утка",
+      "syllables": [
+        "ут",
+        "ка"
+      ],
+      "name": "duck",
+      "copyright": "https://unsplash.com/photos/nVcazbUUVVY"
+    },
+    {
+      "id": 24,
+      "level": 4,
+      "word": "удав",
+      "syllables": [
+        "у",
+        "дав"
+      ],
+      "name": "boa",
+      "copyright": "https://unsplash.com/photos/uA41B8qu4IY"
+    },
+    {
+      "id": 25,
+      "level": 4,
+      "word": "аист",
+      "syllables": [
+        "а",
+        "ист"
+      ],
+      "name": "stork",
+      "copyright": "https://unsplash.com/photos/svBQtU9CVWw"
+    },
+    {
+      "id": 26,
+      "level": 4,
+      "word": "енот",
+      "syllables": [
+        "е",
+        "нот"
+      ],
+      "name": "raccoon",
+      "copyright": "https://unsplash.com/photos/24VowUjS7Jk"
+    },
+    {
+      "id": 27,
+      "level": 4,
+      "word": "белка",
+      "syllables": [
+        "бел",
+        "ка"
+      ],
+      "name": "squirrel",
+      "copyright": "https://unsplash.com/photos/D3fLgDc9uOQ"
+    },
+    {
+      "id": 28,
+      "level": 4,
+      "word": "галка",
+      "syllables": [
+        "гал",
+        "ка"
+      ],
+      "name": "jackdaw",
+      "copyright": "https://unsplash.com/photos/fmjeUpOFdGY"
+    },
+    {
+      "id": 29,
+      "level": 4,
+      "word": "кабан",
+      "syllables": [
+        "ка",
+        "бан"
+      ],
+      "name": "boar",
+      "copyright": "https://unsplash.com/photos/oSaq0J4zGE0"
+    },
+    {
+      "id": 30,
+      "level": 4,
+      "word": "филин",
+      "syllables": [
+        "фи",
+        "лин"
+      ],
+      "name": "eagle_owl",
+      "copyright": "https://unsplash.com/photos/vTpr9AZD1QE"
+    },
+    {
+      "id": 31,
+      "level": 4,
+      "word": "комар",
+      "syllables": [
+        "ко",
+        "мар"
+      ],
+      "name": "mosquito",
+      "copyright": "https://www.pexels.com/ru-ru/photo/9891863/"
+    },
+    {
+      "id": 32,
+      "level": 5,
+      "word": "панда",
+      "syllables": [
+        "пан",
+        "да"
+      ],
+      "name": "panda",
+      "copyright": "https://unsplash.com/photos/fFO5DsFV5gk"
+    },
+    {
+      "id": 33,
+      "level": 5,
+      "word": "кобра",
+      "syllables": [
+        "коб",
+        "ра"
+      ],
+      "name": "cobra",
+      "copyright": "https://unsplash.com/photos/sazD8ZHV_VI"
+    },
+    {
+      "id": 34,
+      "level": 5,
+      "word": "выдра",
+      "syllables": [
+        "выд",
+        "ра"
+      ],
+      "name": "otter",
+      "copyright": "https://unsplash.com/photos/8xGNvZVLNCk"
+    },
+    {
+      "id": 35,
+      "level": 5,
+      "word": "зебра",
+      "syllables": [
+        "зеб",
+        "ра"
+      ],
+      "name": "zebra",
+      "copyright": "https://unsplash.com/photos/UgidX4V13Gc"
+    },
+    {
+      "id": 36,
+      "level": 5,
+      "word": "фенек",
+      "syllables": [
+        "фе",
+        "нек"
+      ],
+      "name": "fennec",
+      "copyright": "https://unsplash.com/photos/W-c6msBKn2Y"
+    },
+    {
+      "id": 37,
+      "level": 5,
+      "word": "жираф",
+      "syllables": [
+        "жи",
+        "раф"
+      ],
+      "name": "giraffe",
+      "copyright": "https://unsplash.com/photos/NVXY8_M1n40"
+    },
+    {
+      "id": 38,
+      "level": 5,
+      "word": "тукан",
+      "syllables": [
+        "ту",
+        "кан"
+      ],
+      "name": "toucan",
+      "copyright": "https://unsplash.com/photos/eqXiLNfZDc0"
+    },
+    {
+      "id": 39,
+      "level": 5,
+      "word": "крыса",
+      "syllables": [
+        "кры",
+        "са"
+      ],
+      "name": "rat",
+      "copyright": "https://www.pexels.com/ru-ru/photo/9783106/"
+    },
+    {
+      "id": 40,
+      "level": 6,
+      "word": "лев",
+      "syllables": [
+        "лев"
+      ],
+      "name": "lion",
+      "copyright": "https://unsplash.com/photos/ZxNKxnR32Ng"
+    },
+    {
+      "id": 41,
+      "level": 6,
+      "word": "слон",
+      "syllables": [
+        "слон"
+      ],
+      "name": "elephant",
+      "copyright": "https://unsplash.com/photos/P7L5011nD5s"
+    },
+    {
+      "id": 42,
+      "level": 6,
+      "word": "морж",
+      "syllables": [
+        "морж"
+      ],
+      "name": "walrus",
+      "copyright": "https://www.pexels.com/ru-ru/photo/12073515/"
+    },
+    {
+      "id": 43,
+      "level": 6,
+      "word": "тигр",
+      "syllables": [
+        "тигр"
+      ],
+      "name": "tiger",
+      "copyright": "https://unsplash.com/photos/YuQgNYku1M8"
+    },
+    {
+      "id": 44,
+      "level": 6,
+      "word": "волк",
+      "syllables": [
+        "волк"
+      ],
+      "name": "wolf",
+      "copyright": "https://unsplash.com/photos/XWNnTnUvwcs"
+    },
+    {
+      "id": 45,
+      "level": 6,
+      "word": "краб",
+      "syllables": [
+        "краб"
+      ],
+      "name": "crab",
+      "copyright": "https://unsplash.com/photos/b2iviaMJtoU"
+    },
+    {
+      "id": 46,
+      "level": 6,
+      "word": "крот",
+      "syllables": [
+        "крот"
+      ],
+      "name": "mole",
+      "copyright": "https://commons.wikimedia.org/wiki/File:Talpa_europaea_MHNT.jpg"
+    },
+    {
+      "id": 47,
+      "level": 6,
+      "word": "фазан",
+      "syllables": [
+        "фа",
+        "зан"
+      ],
+      "name": "pheasant",
+      "copyright": "https://unsplash.com/photos/JhzAwBDkkxk"
+    },
+    {
+      "id": 48,
+      "level": 7,
+      "word": "барсук",
+      "syllables": [
+        "бар",
+        "сук"
+      ],
+      "name": "badger",
+      "copyright": "https://unsplash.com/photos/GvSLkDH7XdI"
+    },
+    {
+      "id": 49,
+      "level": 7,
+      "word": "павлин",
+      "syllables": [
+        "пав",
+        "лин"
+      ],
+      "name": "peacock",
+      "copyright": "https://unsplash.com/photos/xyHvqmFbbnw"
+    },
+    {
+      "id": 50,
+      "level": 7,
+      "word": "песец",
+      "syllables": [
+        "пе",
+        "сец"
+      ],
+      "name": "arctic_fox",
+      "copyright": "https://unsplash.com/photos/ezgtejDRFHc"
+    },
+    {
+      "id": 51,
+      "level": 7,
+      "word": "кролик",
+      "syllables": [
+        "кро",
+        "лик"
+      ],
+      "name": "rabbit",
+      "copyright": "https://unsplash.com/photos/p2UbTX6Uoig"
+    },
+    {
+      "id": 52,
+      "level": 7,
+      "word": "тритон",
+      "syllables": [
+        "три",
+        "тон"
+      ],
+      "name": "newt",
+      "copyright": "https://unsplash.com/photos/75OTSahRlKY"
+    },
+    {
+      "id": 53,
+      "level": 7,
+      "word": "акула",
+      "syllables": [
+        "а",
+        "ку",
+        "ла"
+      ],
+      "name": "shark",
+      "copyright": "https://unsplash.com/photos/GBDkr3k96DE"
+    },
+    {
+      "id": 54,
+      "level": 7,
+      "word": "олуша",
+      "syllables": [
+        "о",
+        "лу",
+        "ша"
+      ],
+      "name": "booby",
+      "copyright": "https://unsplash.com/photos/bhD_CcqQR0c"
+    },
+    {
+      "id": 55,
+      "level": 7,
+      "word": "улитка",
+      "syllables": [
+        "у",
+        "лит",
+        "ка"
+      ],
+      "name": "snail",
+      "copyright": "https://unsplash.com/photos/OxK32aLJXWU"
+    },
+    {
+      "id": 56,
+      "level": 8,
+      "word": "коала",
+      "syllables": [
+        "ко",
+        "а",
+        "ла"
+      ],
+      "name": "koala",
+      "copyright": "https://unsplash.com/photos/eI0m5qV7q5Y"
+    },
+    {
+      "id": 57,
+      "level": 8,
+      "word": "гиена",
+      "syllables": [
+        "ги",
+        "е",
+        "на"
+      ],
+      "name": "hyena",
+      "copyright": "https://unsplash.com/photos/HZvF_ZKSSWA"
+    },
+    {
+      "id": 58,
+      "level": 8,
+      "word": "курица",
+      "syllables": [
+        "ку",
+        "ри",
+        "ца"
+      ],
+      "name": "hen",
+      "copyright": "https://unsplash.com/photos/Jgabeh9Yx6w"
+    },
+    {
+      "id": 59,
+      "level": 8,
+      "word": "куница",
+      "syllables": [
+        "ку",
+        "ни",
+        "ца"
+      ],
+      "name": "marten",
+      "copyright": "https://unsplash.com/photos/mpbwOtvS8Zc"
+    },
+    {
+      "id": 60,
+      "level": 8,
+      "word": "какаду",
+      "syllables": [
+        "ка",
+        "ка",
+        "ду"
+      ],
+      "name": "cockatoo",
+      "copyright": "https://unsplash.com/photos/wwlVe_mXq4s"
+    },
+    {
+      "id": 61,
+      "level": 8,
+      "word": "макака",
+      "syllables": [
+        "ма",
+        "ка",
+        "ка"
+      ],
+      "name": "macaque",
+      "copyright": "https://www.pexels.com/ru-ru/photo/3342627/"
+    },
+    {
+      "id": 62,
+      "level": 8,
+      "word": "медуза",
+      "syllables": [
+        "ме",
+        "ду",
+        "за"
+      ],
+      "name": "jellyfish",
+      "copyright": "https://unsplash.com/photos/rkrqdfLPP88"
+    },
+    {
+      "id": 63,
+      "level": 8,
+      "word": "ворона",
+      "syllables": [
+        "во",
+        "ро",
+        "на"
+      ],
+      "name": "crow",
+      "copyright": "https://unsplash.com/photos/oGrea8Pgc_k"
+    },
+    {
+      "id": 64,
+      "level": 9,
+      "word": "ёж",
+      "syllables": [
+        "ёж"
+      ],
+      "name": "hedgehog",
+      "copyright": "https://unsplash.com/photos/OMCgkp1oZ3Q"
+    },
+    {
+      "id": 65,
+      "level": 9,
+      "word": "як",
+      "syllables": [
+        "як"
+      ],
+      "name": "yak",
+      "copyright": "https://unsplash.com/photos/S3_rEoCFUvo"
+    },
+    {
+      "id": 66,
+      "level": 9,
+      "word": "соня",
+      "syllables": [
+        "со",
+        "ня"
+      ],
+      "name": "dormouse",
+      "copyright": "https://commons.wikimedia.org/wiki/File:Haselmaus.jpg"
+    },
+    {
+      "id": 67,
+      "level": 9,
+      "word": "орёл",
+      "syllables": [
+        "о",
+        "рёл"
+      ],
+      "name": "eagle",
+      "copyright": "https://unsplash.com/photos/OjQgsR1oyEw"
+    },
+    {
+      "id": 68,
+      "level": 9,
+      "word": "дятел",
+      "syllables": [
+        "дя",
+        "тел"
+      ],
+      "name": "woodpecker",
+      "copyright": "https://unsplash.com/photos/5B_ItUbsXz8"
+    },
+    {
+      "id": 69,
+      "level": 9,
+      "word": "цапля",
+      "syllables": [
+        "ца",
+        "пля"
+      ],
+      "name": "heron",
+      "copyright": "https://unsplash.com/photos/akfAenvIIsA"
+    },
+    {
+      "id": 70,
+      "level": 9,
+      "word": "хомяк",
+      "syllables": [
+        "хо",
+        "мяк"
+      ],
+      "name": "hamster",
+      "copyright": "https://unsplash.com/photos/WZC1_6ChfMs"
+    },
+    {
+      "id": 71,
+      "level": 9,
+      "word": "осёл",
+      "syllables": [
+        "о",
+        "сёл"
+      ],
+      "name": "donkey",
+      "copyright": "https://unsplash.com/photos/Aw76eFV8h_E"
+    },
+    {
+      "id": 72,
+      "level": 10,
+      "word": "индюк",
+      "syllables": [
+        "ин",
+        "дюк"
+      ],
+      "name": "turkey",
+      "copyright": "https://unsplash.com/photos/RjNluvdqX3g"
+    },
+    {
+      "id": 73,
+      "level": 10,
+      "word": "ягуар",
+      "syllables": [
+        "я",
+        "гу",
+        "ар"
+      ],
+      "name": "jaguar",
+      "copyright": "https://unsplash.com/photos/9Up5W9NITQw"
+    },
+    {
+      "id": 74,
+      "level": 10,
+      "word": "косуля",
+      "syllables": [
+        "ко",
+        "су",
+        "ля"
+      ],
+      "name": "roe_deer",
+      "copyright": "https://unsplash.com/photos/x5gEwYi8IWU"
+    },
+    {
+      "id": 75,
+      "level": 10,
+      "word": "бабуин",
+      "syllables": [
+        "ба",
+        "бу",
+        "ин"
+      ],
+      "name": "baboon",
+      "copyright": "https://unsplash.com/photos/uiAkAB5r5KI"
+    },
+    {
+      "id": 76,
+      "level": 10,
+      "word": "корова",
+      "syllables": [
+        "ко",
+        "ро",
+        "ва"
+      ],
+      "name": "cow",
+      "copyright": "https://unsplash.com/photos/FquDp5N1Gw0"
+    },
+    {
+      "id": 77,
+      "level": 10,
+      "word": "собака",
+      "syllables": [
+        "со",
+        "ба",
+        "ка"
+      ],
+      "name": "dog",
+      "copyright": ""
+    },
+    {
+      "id": 78,
+      "level": 10,
+      "word": "сорока",
+      "syllables": [
+        "со",
+        "ро",
+        "ка"
+      ],
+      "name": "magpie",
+      "copyright": "https://unsplash.com/photos/P4CeWeCdMw4"
+    },
+    {
+      "id": 79,
+      "level": 10,
+      "word": "бабочка",
+      "syllables": [
+        "ба",
+        "боч",
+        "ка"
+      ],
+      "name": "butterfly",
+      "copyright": "https://unsplash.com/photos/PNXnfta-6-4"
+    },
+    {
+      "id": 80,
+      "level": 11,
+      "word": "пеликан",
+      "syllables": [
+        "пе",
+        "ли",
+        "кан"
+      ],
+      "name": "pelican",
+      "copyright": "https://unsplash.com/photos/3xMSb-GwQLc"
+    },
+    {
+      "id": 81,
+      "level": 11,
+      "word": "бегемот",
+      "syllables": [
+        "бе",
+        "ге",
+        "мот"
+      ],
+      "name": "hippopotamus",
+      "copyright": "https://unsplash.com/photos/6Ym4iEGFqzQ"
+    },
+    {
+      "id": 82,
+      "level": 11,
+      "word": "кенгуру",
+      "syllables": [
+        "кен",
+        "гу",
+        "ру"
+      ],
+      "name": "kangaroo",
+      "copyright": "https://unsplash.com/photos/F8ad-ZksufU"
+    },
+    {
+      "id": 83,
+      "level": 11,
+      "word": "синица",
+      "syllables": [
+        "си",
+        "ни",
+        "ца"
+      ],
+      "name": "tit",
+      "copyright": "https://unsplash.com/photos/zXUdwUTT9oA"
+    },
+    {
+      "id": 84,
+      "level": 11,
+      "word": "бурундук",
+      "syllables": [
+        "бу",
+        "рун",
+        "дук"
+      ],
+      "name": "chipmunk",
+      "copyright": "https://unsplash.com/photos/AfBJ2a3P-3g"
+    },
+    {
+      "id": 85,
+      "level": 11,
+      "word": "дикобраз",
+      "syllables": [
+        "ди",
+        "коб",
+        "раз"
+      ],
+      "name": "porcupine",
+      "copyright": "https://unsplash.com/photos/TCRjgCdI1IM"
+    },
+    {
+      "id": 86,
+      "level": 11,
+      "word": "пчела",
+      "syllables": [
+        "пче",
+        "ла"
+      ],
+      "name": "bee",
+      "copyright": "https://unsplash.com/photos/UIal0ukN5Ak"
+    },
+    {
+      "id": 87,
+      "level": 11,
+      "word": "носорог",
+      "syllables": [
+        "но",
+        "со",
+        "рог"
+      ],
+      "name": "rhino",
+      "copyright": "https://unsplash.com/photos/oxRNH9YA22s"
+    },
+    {
+      "id": 88,
+      "level": 12,
+      "word": "лось",
+      "syllables": [
+        "лось"
+      ],
+      "name": "elk",
+      "copyright": "https://unsplash.com/photos/Du8sGaNHVMc"
+    },
+    {
+      "id": 89,
+      "level": 12,
+      "word": "лань",
+      "syllables": [
+        "лань"
+      ],
+      "name": "fallow_deer",
+      "copyright": "https://unsplash.com/photos/9FbO42yXleI"
+    },
+    {
+      "id": 90,
+      "level": 12,
+      "word": "рысь",
+      "syllables": [
+        "рысь"
+      ],
+      "name": "lynx",
+      "copyright": "https://unsplash.com/photos/k8z65TBa9dY"
+    },
+    {
+      "id": 91,
+      "level": 12,
+      "word": "гусь",
+      "syllables": [
+        "гусь"
+      ],
+      "name": "goose",
+      "copyright": "https://unsplash.com/photos/YsGtJLKZVgk"
+    },
+    {
+      "id": 92,
+      "level": 12,
+      "word": "мышь",
+      "syllables": [
+        "мышь"
+      ],
+      "name": "mouse",
+      "copyright": "https://unsplash.com/photos/ocFm38bEyTE"
+    },
+    {
+      "id": 93,
+      "level": 12,
+      "word": "газель",
+      "syllables": [
+        "га",
+        "зель"
+      ],
+      "name": "gazelle",
+      "copyright": "https://unsplash.com/photos/Y5Kjgbd3hKA"
+    },
+    {
+      "id": 94,
+      "level": 12,
+      "word": "лошадь",
+      "syllables": [
+        "ло",
+        "шадь"
+      ],
+      "name": "horse",
+      "copyright": "https://unsplash.com/photos/Y5iPU37b7Zs"
+    },
+    {
+      "id": 95,
+      "level": 12,
+      "word": "голубь",
+      "syllables": [
+        "го",
+        "лубь"
+      ],
+      "name": "pidgeon",
+      "copyright": "https://unsplash.com/photos/WJxYU_jpOHo"
+    },
+    {
+      "id": 96,
+      "level": 13,
+      "word": "лебедь",
+      "syllables": [
+        "ле",
+        "бедь"
+      ],
+      "name": "swan",
+      "copyright": "https://unsplash.com/photos/-MD5hZCuCQ8"
+    },
+    {
+      "id": 97,
+      "level": 13,
+      "word": "тюлень",
+      "syllables": [
+        "тю",
+        "лень"
+      ],
+      "name": "seal",
+      "copyright": "https://unsplash.com/photos/jgC13_lXgVw"
+    },
+    {
+      "id": 98,
+      "level": 13,
+      "word": "угорь",
+      "syllables": [
+        "у",
+        "горь"
+      ],
+      "name": "eel",
+      "copyright": "https://commons.wikimedia.org/wiki/File:Conger_cinereus,_de_nuit.jpg"
+    },
+    {
+      "id": 99,
+      "level": 13,
+      "word": "медведь",
+      "syllables": [
+        "мед",
+        "ведь"
+      ],
+      "name": "bear",
+      "copyright": "https://unsplash.com/photos/_QG2C0q6J-s"
+    },
+    {
+      "id": 100,
+      "level": 13,
+      "word": "лосось",
+      "syllables": [
+        "ло",
+        "сось"
+      ],
+      "name": "salmon",
+      "copyright": "https://unsplash.com/photos/enPHTN3OPRw"
+    },
+    {
+      "id": 101,
+      "level": 13,
+      "word": "дельфин",
+      "syllables": [
+        "дель",
+        "фин"
+      ],
+      "name": "dolphin",
+      "copyright": "https://unsplash.com/photos/NsvzdXtvyio"
+    },
+    {
+      "id": 102,
+      "level": 13,
+      "word": "осьминог",
+      "syllables": [
+        "ось",
+        "ми",
+        "ног"
+      ],
+      "name": "octopus",
+      "copyright": "https://unsplash.com/photos/qs1r3BWKLGs"
+    },
+    {
+      "id": 103,
+      "level": 13,
+      "word": "альбатрос",
+      "syllables": [
+        "аль",
+        "бат",
+        "рос"
+      ],
+      "name": "albatross",
+      "copyright": "https://unsplash.com/photos/GNF5Iip6G8A"
+    },
+    {
+      "id": 104,
+      "level": 14,
+      "word": "черепаха",
+      "syllables": [
+        "че",
+        "ре",
+        "па",
+        "ха"
+      ],
+      "name": "turtle",
+      "copyright": "https://unsplash.com/photos/L-2p8fapOA8"
+    },
+    {
+      "id": 105,
+      "level": 14,
+      "word": "ящерица",
+      "syllables": [
+        "я",
+        "ще",
+        "ри",
+        "ца"
+      ],
+      "name": "lizard",
+      "copyright": "https://unsplash.com/photos/ocpdTb_VPFs"
+    },
+    {
+      "id": 106,
+      "level": 14,
+      "word": "гусеница",
+      "syllables": [
+        "гу",
+        "се",
+        "ни",
+        "ца"
+      ],
+      "name": "caterpillar",
+      "copyright": "https://unsplash.com/photos/r66truBLDU4"
+    },
+    {
+      "id": 107,
+      "level": 14,
+      "word": "утконос",
+      "syllables": [
+        "ут",
+        "ко",
+        "нос"
+      ],
+      "name": "platypus",
+      "copyright": "https://unsplash.com/photos/RikaYMNrGv0"
+    },
+    {
+      "id": 108,
+      "level": 14,
+      "word": "хамелеон",
+      "syllables": [
+        "ха",
+        "ме",
+        "ле",
+        "он"
+      ],
+      "name": "chameleon",
+      "copyright": "https://unsplash.com/photos/N_GrR8c2EMk"
+    },
+    {
+      "id": 109,
+      "level": 14,
+      "word": "броненосец",
+      "syllables": [
+        "бро",
+        "не",
+        "но",
+        "сец"
+      ],
+      "name": "armadillos",
+      "copyright": "https://www.pexels.com/ru-ru/photo/3683015/"
+    },
+    {
+      "id": 110,
+      "level": 14,
+      "word": "фламинго",
+      "syllables": [
+        "фла",
+        "мин",
+        "го"
+      ],
+      "name": "flamingo",
+      "copyright": "https://unsplash.com/photos/wTPp323zAEw"
+    },
+    {
+      "id": 111,
+      "level": 14,
+      "word": "гепард",
+      "syllables": [
+        "ге",
+        "пард"
+      ],
+      "name": "cheetah",
+      "copyright": "https://unsplash.com/photos/lOkjD5XJMzc"
+    },
+    {
+      "id": 112,
+      "level": 15,
+      "word": "чайка",
+      "syllables": [
+        "чай",
+        "ка"
+      ],
+      "name": "gull",
+      "copyright": "https://unsplash.com/photos/ECaSu6RtxOk"
+    },
+    {
+      "id": 113,
+      "level": 15,
+      "word": "сойка",
+      "syllables": [
+        "сой",
+        "ка"
+      ],
+      "name": "jay",
+      "copyright": "https://unsplash.com/photos/63c7mEJbfL4"
+    },
+    {
+      "id": 114,
+      "level": 15,
+      "word": "муравей",
+      "syllables": [
+        "му",
+        "ра",
+        "вей"
+      ],
+      "name": "ant",
+      "copyright": "https://unsplash.com/photos/XG8eYNYdz54"
+    },
+    {
+      "id": 115,
+      "level": 15,
+      "word": "воробей",
+      "syllables": [
+        "во",
+        "ро",
+        "бей"
+      ],
+      "name": "sparrow",
+      "copyright": "https://unsplash.com/photos/SpY5raN68PM"
+    },
+    {
+      "id": 116,
+      "level": 15,
+      "word": "скарабей",
+      "syllables": [
+        "ска",
+        "ра",
+        "бей"
+      ],
+      "name": "dung",
+      "copyright": "https://unsplash.com/photos/3C2lA9AL4UQ"
+    },
+    {
+      "id": 117,
+      "level": 15,
+      "word": "попугай",
+      "syllables": [
+        "по",
+        "пу",
+        "гай"
+      ],
+      "name": "parrot",
+      "copyright": "https://unsplash.com/photos/zOKrNguZwKo"
+    },
+    {
+      "id": 118,
+      "level": 15,
+      "word": "страус",
+      "syllables": [
+        "стра",
+        "ус"
+      ],
+      "name": "ostrich",
+      "copyright": "https://unsplash.com/photos/JWwvSaZ0A-k"
+    },
+    {
+      "id": 119,
+      "level": 15,
+      "word": "верблюд",
+      "syllables": [
+        "вер",
+        "блюд"
+      ],
+      "name": "camel",
+      "copyright": "https://unsplash.com/photos/perj0PDCc8c"
+    },
+    {
+      "id": 120,
+      "level": 16,
+      "word": "скворец",
+      "syllables": [
+        "скво",
+        "рец"
+      ],
+      "name": "starling",
+      "copyright": "https://unsplash.com/photos/pJW4qg9KFiM"
+    },
+    {
+      "id": 121,
+      "level": 16,
+      "word": "пингвин",
+      "syllables": [
+        "пин",
+        "гвин"
+      ],
+      "name": "penguin",
+      "copyright": "https://unsplash.com/photos/j-udI4zim2E"
+    },
+    {
+      "id": 122,
+      "level": 16,
+      "word": "орангутан",
+      "syllables": [
+        "о",
+        "ран",
+        "гу",
+        "тан"
+      ],
+      "name": "orangutang",
+      "copyright": "https://www.pexels.com/ru-ru/photo/6783117/"
+    },
+    {
+      "id": 123,
+      "level": 16,
+      "word": "муравьед",
+      "syllables": [
+        "му",
+        "равь",
+        "ед"
+      ],
+      "name": "anteater",
+      "copyright": "https://unsplash.com/photos/9-XXcfFirQs"
+    },
+    {
+      "id": 124,
+      "level": 16,
+      "word": "крокодил",
+      "syllables": [
+        "кро",
+        "ко",
+        "дил"
+      ],
+      "name": "crocodile",
+      "copyright": "https://unsplash.com/photos/9Z65PZ15Rj0"
+    },
+    {
+      "id": 125,
+      "level": 16,
+      "word": "зимородок",
+      "syllables": [
+        "зи",
+        "мо",
+        "ро",
+        "док"
+      ],
+      "name": "kingfisher",
+      "copyright": "https://unsplash.com/photos/vUNQaTtZeOo"
+    },
+    {
+      "id": 126,
+      "level": 16,
+      "word": "росомаха",
+      "syllables": [
+        "ро",
+        "со",
+        "ма",
+        "ха"
+      ],
+      "name": "wolverine",
+      "copyright": "https://unsplash.com/photos/sKoaS29hkn4"
+    },
+    {
+      "id": 127,
+      "level": 16,
+      "word": "журавль",
+      "syllables": [
+        "жу",
+        "равль"
+      ],
+      "name": "crane",
+      "copyright": "https://unsplash.com/photos/ZewCLawwulw"
+    }
+  ]
+}
